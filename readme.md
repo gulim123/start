@@ -1,4 +1,4 @@
-gulim clone https://github.com/zuberok/bs_demo.git
+clone https://github.com/zuberok/bs_demo.git
 
 cd bs_demo
 
